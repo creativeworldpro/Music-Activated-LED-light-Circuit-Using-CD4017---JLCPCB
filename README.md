@@ -37,7 +37,7 @@ Component List –
 
 •	Transistor – BC 557
 
-•	IC – CD 4017
+•	IC – LM 3914
 
 •	Resistor – 1.5 KΩ
  		          33 KΩ
